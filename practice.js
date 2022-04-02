@@ -10,7 +10,7 @@
 // console.log(Newarr.join(" "));
 
 // const firstWord = function (sentence) {
-//   const newArr = [];
+//   const newArr = [];dsdsd
 //   const newSentence = [];
 //   newArr.push(...sentence.split(" "));
 //   for (i = 0; i < newArr.length; i++) {
