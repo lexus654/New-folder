@@ -17,7 +17,7 @@
 //     newSentence.push(
 //       newArr[i].charAt(0).toLocaleUpperCase() + newArr[i].slice(1)
 //     );
-//   }
+//   }dsdsd
 //   return newSentence.join(" ");
 // };
 
